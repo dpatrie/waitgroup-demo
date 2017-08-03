@@ -1,4 +1,4 @@
-##Golang : Concurrency niceties##
+## Golang : Concurrency nicetie
 
 We all have "aahaaa" moment when we learn new technologies. It happened to us when we started experimenting with Go's concurrency features. Let's pretend we want to measure the response time of a list of url's. Most programmer coming from mainstream language like PHP or Python will write something along theses lines:
 
